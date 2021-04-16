@@ -1,3 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // your code here
+  
 });
+
+form = document.querySelector(`#create-task-form`);
+let commentContainer = document.querySelector(`#tasks`)
